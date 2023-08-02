@@ -1,32 +1,25 @@
 {
   "users": [
     {
-      "firstName": "obada",
-      "lastName": "ajouly",
-      "email": "obadaajouly@gmail.com",
-      "password": "Obada@123",
+      "firstName": "karim",
+      "lastName": "khaled",
+      "email": "karimkhaled@orange.com",
+      "password": "kareem@123",
       "id": 1
     },
     {
-      "firstName": "motaz",
-      "lastName": "ajouly",
-      "email": "motazajouly@gmail.com",
-      "password": "Motaz@123",
+      "firstName": "kareem",
+      "lastName": "abdallah",
+      "email": "kareemabdallah9627@gmail.com",
+      "password": "kareem@123",
       "id": 2
     },
     {
-      "firstName": "hamza",
-      "lastName": "ajouly",
-      "email": "hamzaajouly@gmail.com",
-      "password": "Hamza@123",
+      "firstName": "kareem",
+      "lastName": "abdallah",
+      "email": "kareemabdallah9628@gmail.com",
+      "password": "kareem@123",
       "id": 3
     },
-    {
-      "firstName": "momen",
-      "lastName": "ajouly",
-      "email": "momenajouly@gmail.com",
-      "password": "Momen@123",
-      "id": 4
-    }
   ]
 }
